@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Red+Hat+Text:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
 
 /* === style_w10 theme default ==== */
@@ -62,7 +62,7 @@ hr {
  */
 
 pre {
-  font-family: monospace, monospace; /* 1 */
+  font-family: Montserrat; /* 1 */
   font-size: 1em; /* 2 */
 }
 
@@ -105,7 +105,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace; /* 1 */
+  font-family: Montserrat; /* 1 */
   font-size: 1em; /* 2 */
 }
 
@@ -162,7 +162,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: inherit; /* 1 */
+  font-family: Montserrat; /* 1 */
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
@@ -368,7 +368,7 @@ template {
 
 body {	
     color: #868686;
-    font-family: 'Red Hat Text', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 17px;
@@ -389,7 +389,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a{
-	font-family: 'Inter', sans-serif;
+	font-family: 'Montserrat', sans-serif;
     font-style: normal;
 	margin-bottom: 0;
     line-height: 1.2;	
@@ -13095,7 +13095,7 @@ hisfull FUN FACT AREA CSS
 .countr_text > h1 {
 	  
     display: inline-block;
-    font-family: poppins;
+    font-family: Montserrat;
     font-size: 45px;
     font-weight: 600;
     -webkit-transition: .3s;    margin: 0;
