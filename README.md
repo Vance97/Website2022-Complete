@@ -24,3 +24,27 @@
 | [xxh]              | Transports shell configuration over SSH      | [xxh-plugin-prerun-zoxide] |
 | [zabb]             | Finds the shortest possible query for a path | Natively supported         |
 | [zsh-autocomplete] | Realtime completions for zsh                 | Natively supported         |
+
+<hr>
+## Website Structure
+
+Puno.africa
+├── Home
+├── About
+├── Process
+│   ├── What we do
+│   │  
+│   ├── How we do it
+│   │   
+│   └── Why we do it
+│       
+├── Register
+│   ├── Farmer
+│   │   └── Registration Form
+│   └── Investor
+│       └── Registration Form
+│   
+├── Gallery
+│   ├── Achievements
+│   └── Featured Events
+└── Get In Touch
