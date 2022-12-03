@@ -28,6 +28,7 @@
 <hr>
 ## Website Structure
 
+```shell
 Puno.africa
 ├── Home
 ├── About
@@ -48,3 +49,4 @@ Puno.africa
 │   ├── Achievements
 │   └── Featured Events
 └── Get In Touch
+```
