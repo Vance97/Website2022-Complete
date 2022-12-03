@@ -33,11 +33,11 @@ Puno.africa
 ├── Home
 ├── About
 ├── Process
-│   ├── What we do
+│   ├── What
 │   │  
-│   ├── How we do it
+│   ├── How
 │   │   
-│   └── Why we do it
+│   └── Why
 │       
 ├── Register
 │   ├── Farmer
