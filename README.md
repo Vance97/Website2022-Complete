@@ -33,10 +33,8 @@ Puno.africa
 ├── Home
 ├── About
 ├── Process
-│   ├── What
-│   │  
-│   ├── How
-│   │   
+│   ├── What 
+│   ├── How  
 │   └── Why
 │       
 ├── Register
