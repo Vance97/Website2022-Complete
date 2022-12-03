@@ -1,4 +1,10 @@
-# Website2022-Complete
+# Puno.Africa 
+
+<div align="center">
+  <a href="https://puno.africa/">
+    <img src="assets/images/puno-logo-2022.png" alt="Logo" width="80" height="80">
+  </a>
+</div>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
