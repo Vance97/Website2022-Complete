@@ -11,7 +11,7 @@
 
 | Source        | Description                                  | URL                     |
 | ------------------ | -------------------------------------------- | -------------------------- |
-| [Unsplash]            | Used for the carousel image                 | [https://unsplash.com]             |
+| Unsplash            | Used for the carousel image                 | https://unsplash.com             |
 | [emacs]            | Text editor                                  | [zoxide.el]                |
 | [felix]            | File manager                                 | Natively supported         |
 | [joshuto]          | File manager                                 | Natively supported         |
