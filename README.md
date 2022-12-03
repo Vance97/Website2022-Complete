@@ -12,16 +12,11 @@
 | Source        | Description                                  | URL                     |
 | ------------------ | -------------------------------------------- | -------------------------- |
 | Unsplash            | Used for the carousel image                 | https://unsplash.com             |
-| [emacs]            | Text editor                                  | [zoxide.el]                |
-| [felix]            | File manager                                 | Natively supported         |
-| [joshuto]          | File manager                                 | Natively supported         |
-| [lf]               | File manager                                 | See the [wiki][lf-wiki]    |
-| [nnn]              | File manager                                 | [nnn-autojump]             |
-| [ranger]           | File manager                                 | [ranger-zoxide]            |
-| [telescope.nvim]   | Fuzzy finder for Neovim                      | [telescope-zoxide]         |
-| [vim] / [neovim]   | Text editor                                  | [zoxide.vim]               |
-| [xplr]             | File manager                                 | [zoxide.xplr]              |
-| [xxh]              | Transports shell configuration over SSH      | [xxh-plugin-prerun-zoxide] |
+| Lottie Files            | Used for animated illustrations                                  | https://lottiefiles.com/                |
+| Pixlr            | Used for photo editing                                | https://pixlr.com/         |
+| VS Code          | Used for coding the website                                 | https://code.visualstudio.com/         |
+| Afrihost               | Used for hosting the website                                 | https://www.afrihost.com/    |
+| mySQL              | Database                                 | https://www.mysql.com/             |
 
 
 
