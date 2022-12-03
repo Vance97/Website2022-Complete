@@ -9,9 +9,9 @@
 
 ## Third-party integrations
 
-| Application        | Description                                  | Plugin                     |
+| Source        | Description                                  | URL                     |
 | ------------------ | -------------------------------------------- | -------------------------- |
-| [clink]            | Improved cmd.exe for Windows                 | [clink-zoxide]             |
+| [Unsplash]            | Used for the carousel image                 | [https://unsplash.com]             |
 | [emacs]            | Text editor                                  | [zoxide.el]                |
 | [felix]            | File manager                                 | Natively supported         |
 | [joshuto]          | File manager                                 | Natively supported         |
@@ -22,8 +22,7 @@
 | [vim] / [neovim]   | Text editor                                  | [zoxide.vim]               |
 | [xplr]             | File manager                                 | [zoxide.xplr]              |
 | [xxh]              | Transports shell configuration over SSH      | [xxh-plugin-prerun-zoxide] |
-| [zabb]             | Finds the shortest possible query for a path | Natively supported         |
-| [zsh-autocomplete] | Realtime completions for zsh                 | Natively supported         |
+
 
 
 ## Website Structure
