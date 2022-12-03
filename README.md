@@ -25,7 +25,7 @@
 | [zabb]             | Finds the shortest possible query for a path | Natively supported         |
 | [zsh-autocomplete] | Realtime completions for zsh                 | Natively supported         |
 
-<hr>
+
 ## Website Structure
 
 ```shell
