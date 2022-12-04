@@ -51,7 +51,7 @@ Large Screen. 1200
     width: 70%;
 }
 
-.hisfull_menu > ul > li > a {
+.puno_menu > ul > li > a {
     margin: 38px 9px 38px;
     font-size: 19px;
 }
@@ -147,8 +147,8 @@ Old Desktop :1365-1660
 
 @media (min-width: 1365px) and (max-width: 1660px) {
 /*   New Top Menu css   */
-.hisfull_nav_area,
-.hisfull-header-top {
+.puno_nav_area,
+.puno-header-top {
     padding-right: 50px !important;
     padding-left: 50px !important;
 }	
@@ -170,10 +170,10 @@ Old Desktop :1365-1660
 .slider_pdlf {
     padding-left: 20px;
 }
-.hisfull_solution_area {
+.puno_solution_area {
     padding: 80px 150px 70px 123px;
 }
-.hisfull_about_area {
+.puno_about_area {
     padding: 100px 51px 100px 10px;
 }
 .animate_banner_areabanner_area.witr_banner_height {
@@ -230,8 +230,8 @@ Old Desktop :992
 
 @media (min-width: 992px) and (max-width: 1199px) {
 /*   New Top Menu css   */
-.hisfull_nav_area,
-.hisfull-header-top {
+.puno_nav_area,
+.puno-header-top {
     padding-right: 0 !important;
     padding-left: 0 !important;
 }	
@@ -255,7 +255,7 @@ Old Desktop :992
 	
 	
 	
-.hmenu_box_style .hisfull_menu > ul > li > a {
+.hmenu_box_style .puno_menu > ul > li > a {
     margin: 32px 7px;
 }	
 .em_creative_header::before {
@@ -332,17 +332,17 @@ Old Desktop :992
 		transform: rotate(-100deg);
 }
 
-.hisfull_menu > ul > li > a {
+.puno_menu > ul > li > a {
 	margin: 38px 5px 38px;
 	font-size: 13px;
 }
-.hisfull_menu > ul > li > a {
+.puno_menu > ul > li > a {
 	margin: 38px 15px 38px;
 	font-size: 13px;
 }
-.witr_h_h8 .hisfull_menu > ul > li > a,
-.witr_h_h15 .hisfull_menu > ul > li > a,
-.witr_h_h16 .hisfull_menu > ul > li > a
+.witr_h_h8 .puno_menu > ul > li > a,
+.witr_h_h15 .puno_menu > ul > li > a,
+.witr_h_h16 .puno_menu > ul > li > a
 {
 	margin: 38px 11px 38px;
 }
@@ -351,10 +351,10 @@ a.dtbtn {
 	margin-left: 10px;
 	padding: 10px 20px;
 }
-.witr_h_h10 .hisfull_menu > ul > li > a,
-.witr_h_h11 .hisfull_menu > ul > li > a,
-.witr_h_h9 .hisfull_menu > ul > li > a,
-.witr_h_h17 .hisfull_menu > ul > li > a{
+.witr_h_h10 .puno_menu > ul > li > a,
+.witr_h_h11 .puno_menu > ul > li > a,
+.witr_h_h9 .puno_menu > ul > li > a,
+.witr_h_h17 .puno_menu > ul > li > a{
 	margin: 38px 6px 38px;
 	font-size: 12px;
 }
@@ -488,7 +488,7 @@ font-size: 14px;
     font-size: 19px;
 }
 
-.hisfull_service18 .witr_custom_icons {
+.puno_service18 .witr_custom_icons {
     text-align: center;
 }
 /* testomonial style 8 css */
@@ -528,7 +528,7 @@ margin-left: 50px;
 }
 /* static tab css*/
 .event_pcontent p,
-.hisfull_event_icon span {
+.puno_event_icon span {
 font-size: 13px;
 }
 .footer-middle .mc4wp-form-fields button {
@@ -576,15 +576,15 @@ font-size: 13px;
 #scrollUp {
     bottom: 60px;
 }
-/* hisfull_about_area */
-.hisfull_about_area {
+/* puno_about_area */
+.puno_about_area {
     padding: 100px 0px 100px 0px;
 }
 
-.hisfull_about_area .single_image img {
+.puno_about_area .single_image img {
     width: 100%;
 }
-.hisfull_about_area .single_img_ani img {
+.puno_about_area .single_img_ani img {
     width: 100%;
 }
 .witr_about_left {
@@ -597,11 +597,11 @@ font-size: 13px;
 .witr_about_title .witr_section_title_inner.text-left p {
     width: 100%;
 }
-.hisfull_testimonial_area .slick-prev {
+.puno_testimonial_area .slick-prev {
     left: -323px;
 }
 
-.hisfull_testimonial_area .slick-next {
+.puno_testimonial_area .slick-next {
     right: 773px;
 }
 .witr_counter3_area .witr_counter_text h4 {
@@ -615,17 +615,17 @@ font-size: 13px;
     padding: 10px 10px 31px 4px;
 }
 
-.hisfull_service_area.hisfull_service2 .text_box.all_icon_color {
+.puno_service_area.puno_service2 .text_box.all_icon_color {
     padding: 10px 22px 31px 12px;
 }
-.hisfull_service_area .em-service-title h3 a {
+.puno_service_area .em-service-title h3 a {
     font-size: 20px;
 }
 .detail_SS h3 a {
     font-size: 19px;
 }
 
-/* hisfull_feature_area */
+/* puno_feature_area */
 .feature_sub_inner.show {
    padding: 53px 8px 34px 9px;
 }
@@ -652,14 +652,14 @@ font-size: 13px;
 .witr_slider_thumb_inner img{
 	width:77%;
 }
-.hisfull_video_area.breadcumb-area .video-overlay {
+.puno_video_area.breadcumb-area .video-overlay {
     padding: 0px 0 0px;
 }
 .witr_contact_title h3 {
     font-size: 25px;
 line-height: 42px;
 }
-.hisfull_solution_area {
+.puno_solution_area {
     padding: 80px 20px 70px 61px;
 }
 .em_testi_title h2 {
@@ -682,11 +682,11 @@ Tablet Screen : 768
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-.hisfull-header-top {
+.puno-header-top {
     padding-right: 0 !important;
     padding-left: 0 !important;
 }
-.hmenu_box_style .hisfull_menu > ul > li > a {
+.hmenu_box_style .puno_menu > ul > li > a {
     margin: 32px 3px;
 }
 a.dtbtn {
@@ -885,7 +885,7 @@ width: 100%;
 /* 	margin-bottom: 100px; */
 }	
 /* accourdion css */
-.hisfull-accourdion-title h2 i {
+.puno-accourdion-title h2 i {
 	display: none;
 }
 .accordion-content {
@@ -927,10 +927,10 @@ width: 100%;
 .witr_testi_main {
 	width: 90%;
 }
-.hisfull_testimonial_area .slick-next {
+.puno_testimonial_area .slick-next {
     right: 564px;
 }
-.hisfull_testimonial_area .slick-prev {
+.puno_testimonial_area .slick-prev {
     left: -300px;
 }
 
@@ -973,13 +973,13 @@ max-width: 240% !important;
 .Screenshots .dnSlide-main .dnSlide-left-btn {
 	left: 47px;
 	}	
-.hisfull-accourdion-title h2 {
+.puno-accourdion-title h2 {
 	padding-left: 20px;
 }	
 .w_apps_button a {
 	padding: 3px 20px 11px 20px !important;
 }	
-span.ihisfull {
+span.ipuno {
 	font-size: 20px;
 	margin-right: 10px;
 }	
@@ -991,10 +991,10 @@ span.spaninner {
 .witr_app_area .digital-content h3 {
 	margin-top:0px !important;
 }
-.hisfull_about_area {
+.puno_about_area {
     padding: 100px 0px 100px 0px;
 }
-.hisfull_about_area .single_img_ani img {
+.puno_about_area .single_img_ani img {
     width: 89%;
 }
 .witr_about_title h3 {
@@ -1085,10 +1085,10 @@ padding: 15px 15px 10px;
 .all_cal_color {
     text-align: center;
 }
-.witr_9 .hisfull_video_inner{
+.witr_9 .puno_video_inner{
     margin-bottom: 73px;
 }
-.witr_9 .hisfull_video_inner{
+.witr_9 .puno_video_inner{
     top: 40px;
 }
 .witr_col_image {
@@ -1097,14 +1097,14 @@ padding: 15px 15px 10px;
 .witr_11 {
     margin-top: 100px;
 }
-.witr_5 .hisfull_content p{
+.witr_5 .puno_content p{
     width: 100%;
 }
  .witr_b9{
     margin-top: 95px;
 }
 
-.hisfull_content h2, .hisfull_content h3 {
+.puno_content h2, .puno_content h3 {
     font-size: 33px;
 }
 
@@ -1169,14 +1169,14 @@ margin-left: -63px;
 margin-right: -40px;
 }
 /* static tab css*/
-.hisfull_event_thumb {
+.puno_event_thumb {
 float: none;
 margin-bottom: 15px;
 }
-.hisfull_single_event {
+.puno_single_event {
 margin: 0;
 }
-.hisfull_event_icon span {
+.puno_event_icon span {
 margin-right: 5px;
 }
 
@@ -1224,7 +1224,7 @@ text-align: center;
     z-index: 999999;
 	display:none;
 }
-.hisfull_content {
+.puno_content {
     margin-bottom: 30px;
 }
 .em-service2.sleft .em-service-icon {
@@ -1266,16 +1266,16 @@ width:100% !important;
 #scrollUp {
     bottom: 60px;
 }
-/* hisfull_feature_area */
-.hisfull_feature_area .medi_singleService {
+/* puno_feature_area */
+.puno_feature_area .medi_singleService {
     box-shadow: none;
     text-align: center;
 }
-/* hisfull_service_area */
-.hisfull_service_area.service16 .witr_service2_style4_s {
+/* puno_service_area */
+.puno_service_area.service16 .witr_service2_style4_s {
     margin-bottom: 102px;
 }
-/* hisfull_feature_area */
+/* puno_feature_area */
 .feature_sub_inner {
     padding: 53px 24px 34px 10px;
     margin-bottom: 30px;
@@ -1298,10 +1298,10 @@ width:100% !important;
 .witr_extra_title h3 {
     font-size: 30px;
 }
-.hisfull_video_area.breadcumb-area {
+.puno_video_area.breadcumb-area {
     padding:40px 0px 40px;
 }
-.hisfull_video_area.breadcumb-area .video-part .video-overlay {
+.puno_video_area.breadcumb-area .video-part .video-overlay {
      padding: 0px 0; 
 }
 
@@ -1309,10 +1309,10 @@ width:100% !important;
 	display:none;
 	
 }
-.hisfull_solution_area {
+.puno_solution_area {
     padding: 80px 132px 70px 100px;
 }
-.hisfull_choose_area .em-service2.sleft.all_color_service {
+.puno_choose_area .em-service2.sleft.all_color_service {
     padding: 45px 30px 40px 30px;
 	text-align: center;
 }
@@ -1552,11 +1552,11 @@ padding: 50px 0;
 .em-blog-content-area {
 padding: 20px 10px 5px;
 }
-.hisfull-blog-meta-left a, .hisfull-blog-meta-left span {
+.puno-blog-meta-left a, .puno-blog-meta-left span {
 font-size: 11px;
 margin-right: 3px;
 }
-.hisfull-blog-meta-right a, .hisfull-blog-meta-right span {
+.puno-blog-meta-right a, .puno-blog-meta-right span {
 font-size: 11px;
 margin-left: 3px;
 }
@@ -1654,7 +1654,7 @@ padding-bottom: 40px;
  .copy-right-text p {
 	 font-size: 15px;
 }
-.hisfull-blog-thumb img {
+.puno-blog-thumb img {
 	width: 100%;
 }
 
@@ -1713,25 +1713,25 @@ background: none;
 .about-content span{
 	font-size: 16px;
 }
-.hisfull_about_area {
+.puno_about_area {
     padding: 100px 0px 100px 0px;
 }
 
-.hisfull_about_area  .single_image {
+.puno_about_area  .single_image {
     margin-bottom: 100px;
 }
 .witr_about_title h3 {
     width: 100%;
 }
-.hisfull_solution_area  .em_service_content {
+.puno_solution_area  .em_service_content {
     text-align: center;
 }
 
-.hisfull_choose_area .em-service-title h3 {
+.puno_choose_area .em-service-title h3 {
     font-size: 20px;
 }
 
-.hisfull_choose_area .em-service2.sleft.all_color_service {
+.puno_choose_area .em-service2.sleft.all_color_service {
     padding: 45px 20px 40px 20px;
 	text-align:center;
 
@@ -1740,11 +1740,11 @@ background: none;
 .witr_blog_con h2 a {
     font-size: 18px;
 }
-.hisfull_about_area .single_image img {
+.puno_about_area .single_image img {
     width: 100%;
 }
 
-.hisfull_about_area .single_img_ani img {
+.puno_about_area .single_img_ani img {
     width: 76%;
 }
 .witr_shape_item_inner {
@@ -1791,7 +1791,7 @@ background: none;
 .feature_inner_box{
 	text-align:center;
 }
-.hisfull_feature_area. .medi_singleService {
+.puno_feature_area. .medi_singleService {
     text-align: center;
 }
 .feature_sub_inner {
@@ -1801,7 +1801,7 @@ background: none;
     padding: 53px 18px 34px 12px;
 }
 
-.hisfull_feature_area.feature51 .singleService h2 {
+.puno_feature_area.feature51 .singleService h2 {
     display: none;
 }
 
@@ -1955,13 +1955,13 @@ margin-bottom: 30px;
 .text_box.all_icon_color {
     padding: 10px 10px 31px 10px;
 }
-.hisfull_service_area.service16 .witr_service2_style4_s {
+.puno_service_area.service16 .witr_service2_style4_s {
     margin-bottom: 102px;
 }
 
 
 /* tab css	 */
-.hisfull_tab li {
+.puno_tab li {
 	margin-bottom: 20px;
 }
 .witr_adv_tab_content {
@@ -1985,7 +1985,7 @@ font-size: 15px;
 .elementor-tab-title {
 	font-size: 13px !important;
 }
-.hisfull-accourdion-title h2{
+.puno-accourdion-title h2{
 	font-size: 14px;
 	padding-left: 20px;
 }	
@@ -2121,38 +2121,38 @@ font-size: 15px;
 .all_cal_color {
     text-align: center;
 }
-.hisfull_video_inner{
+.puno_video_inner{
     top: 21px;
 }
-.hisfull_video11.hisfull_video_inner{
+.puno_video11.puno_video_inner{
     top: 50%;
 }
-.hisfull_content h5 {
+.puno_content h5 {
     font-size: 18px;
 }
-.hisfull_button a {
+.puno_button a {
     margin-bottom: 30px;
     margin-right: 0px;	
 }
-.hisfull_content h2,
-.hisfull_content h3{
+.puno_content h2,
+.puno_content h3{
     font-size: 23px;
 }
- .witr_9 .hisfull_video_inner{
+ .witr_9 .puno_video_inner{
     margin-bottom: 73px;
 } 
 .witr_b9 {
     margin-top: -10px;
 }
 
-.hisfull_content {
+.puno_content {
     margin-bottom: 30px;
     text-align: center;
 }
-.hisfull_button {
+.puno_button {
     text-align: center;
 }
-.hisfull_call_to_action_area {
+.puno_call_to_action_area {
     padding: 50px 0px 10px;
 }
 .mc4wp-form-fields button {
@@ -2187,7 +2187,7 @@ font-size: 15px;
 .portfolio-details-box h2 {
 	padding-top: 20px;
 }
-.portfolio-details-box .hisfull-single-icon-inner a {
+.portfolio-details-box .puno-single-icon-inner a {
 	margin: 0 4px;
 }
 /* single_protfolio css */
@@ -2239,14 +2239,14 @@ margin-right: 14px;
 }
 
 /* static tab css*/
-.hisfull_event_thumb {
+.puno_event_thumb {
 float: none;
 margin-bottom: 15px;
 }
-.hisfull_single_event {
+.puno_single_event {
 margin: 0;
 }
-.hisfull_event_icon span {
+.puno_event_icon span {
 margin-right: 5px;
 }
 
@@ -2279,7 +2279,7 @@ padding: 0px .5em;
 margin-right: 6px;
 }
 
-.hisfull-header-top {
+.puno-header-top {
 display:none;
 }
 .accordion_area {
@@ -2407,7 +2407,7 @@ position: initial !important;
 .title_btn.title {
     text-align: left;
 }
-.hisfull_video_area.breadcumb-area {
+.puno_video_area.breadcumb-area {
     padding: 25px 0px 25px;
 }
 .pricing_area.pricing_id2 ul li:nth-child(odd) {
@@ -2419,8 +2419,8 @@ position: initial !important;
 .single_blog_title.title_style h3 {
     font-size: 20px;
 }
-/* hisfull_solution_area */
-.hisfull_solution_area {
+/* puno_solution_area */
+.puno_solution_area {
     padding: 80px 0px 70px 27px;
 }
 
@@ -2512,7 +2512,7 @@ margin: 0 2px 10px;
 	left: -98px;
 	top: 49px;
 }
-.hisfull-header-top {
+.puno-header-top {
 display:block;
 }
 
@@ -2525,7 +2525,7 @@ display:block !important;
 .mobile_logo_area{
 display:block !important;
 }
-.hisfull-main-menu{
+.puno-main-menu{
 display:none !important;
 }
 .d_md_none{
@@ -2610,7 +2610,7 @@ margin-bottom: 20px;
 
 @media (min-width: 10px) and (max-width: 570px){
 
-.hisfull-header-top{
+.puno-header-top{
 display:none;
 }
 

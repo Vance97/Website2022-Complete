@@ -188,7 +188,7 @@
 			]
 		});	
 	
-		// TESTIMONIAL hisfull
+		// TESTIMONIAL puno
 		$('.testomonial_active').slick({
 			infinite: true,
 			autoplay: true,
@@ -234,8 +234,8 @@
 		
 		
 		
-		// TESTIMONIAL hisfull_testomonial_page
-		$('.hisfull_testomonial_active').slick({
+		// TESTIMONIAL puno_testomonial_page
+		$('.puno_testomonial_active').slick({
 			infinite: true,
 			autoplay: true,
 			autoplaySpeed: 30000,
@@ -273,8 +273,8 @@
 		});
 		
 		
-		// TESTIMONIAL hisfull_testomonial_page2
-		$('.hisfull_testomonial_active2').slick({
+		// TESTIMONIAL puno_testomonial_page2
+		$('.puno_testomonial_active2').slick({
 			infinite: true,
 			autoplay: true,
 			autoplaySpeed: 30000,
@@ -312,8 +312,8 @@
 		});
 		
 		
-		// TESTIMONIAL hisfull_testomonial_page2
-		$('.hisfull_testomonial_active3').slick({
+		// TESTIMONIAL puno_testomonial_page2
+		$('.puno_testomonial_active3').slick({
 			infinite: true,
 			autoplay: true,
 			autoplaySpeed: 30000,
@@ -397,8 +397,8 @@
 				]
 			});
 
-		// TESTIMONIAL hisfull_testomonial_page
-		$('.hisfull_testomonial_active4').slick({
+		// TESTIMONIAL puno_testomonial_page
+		$('.puno_testomonial_active4').slick({
 			infinite: true,
 			autoplay: true,
 			autoplaySpeed: 30000,
@@ -738,7 +738,7 @@
     	One Page Nav
     ----------------------------------- */
      var top_offset = $('.one_page').height() +0;
-    $('.one_page .hisfull_menu .nav_scroll').onePageNav({
+    $('.one_page .puno_menu .nav_scroll').onePageNav({
         currentClass: 'current',
         changeHash: false,
         scrollSpeed: 1000,
