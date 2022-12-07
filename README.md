@@ -16,12 +16,13 @@
 
 | Source        | Description                                  | URL                     |
 | ------------------ | -------------------------------------------- | -------------------------- |
-| Unsplash            | Used for the carousel image                 | https://unsplash.com             |
+| Unsplash            | Used for the carousel image                 | https://unsplash.com/             |
 | Lottie Files            | Used for animated illustrations                                  | https://lottiefiles.com/                |
 | Pixlr            | Used for photo editing                                | https://pixlr.com/         |
 | VS Code          | Used for coding the website                                 | https://code.visualstudio.com/         |
 | Afrihost               | Used for hosting the website                                 | https://www.afrihost.com/    |
 | mySQL              | Database                                 | https://www.mysql.com/             |
+| KindPNG              | High Quality Images                                 | https://www.kindpng.com/             |
 
 
 
