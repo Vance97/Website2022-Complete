@@ -11,7 +11,7 @@ error_reporting(E_ALL);
 		$subject=$_POST['subject'];
 		$comment=$_POST['comment'];
 
-		$to='muchogo.vance@mail.com'; // Receiver Email ID, Replace with your email ID
+		$to='muchogo.vance@gmail.com'; // Receiver Email ID, Replace with your email ID
 		$subject='A message from puno.africa/contact page';
 		$message="Name :".$name."\n"."Phone :".$contact_number."\n"."Wrote the following :"."\n\n".$comment;
 		$headers="From: ".$email;
