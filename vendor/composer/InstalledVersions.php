@@ -30,7 +30,7 @@ class InstalledVersions
     'aliases' => 
     array (
     ),
-    'reference' => '689b6d09a91f50e25f5cd8c8e03f9d40433e823e',
+    'reference' => '7d1651da00225b9315f5e40c87849a58193933ae',
     'name' => '__root__',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ class InstalledVersions
       'aliases' => 
       array (
       ),
-      'reference' => '689b6d09a91f50e25f5cd8c8e03f9d40433e823e',
+      'reference' => '7d1651da00225b9315f5e40c87849a58193933ae',
     ),
     'phpmailer/phpmailer' => 
     array (
@@ -52,6 +52,40 @@ class InstalledVersions
       array (
       ),
       'reference' => '49cd7ea3d2563f028d7811f06864a53b1f15ff55',
+    ),
+    'sendgrid/php-http-client' => 
+    array (
+      'pretty_version' => '3.14.4',
+      'version' => '3.14.4.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '6d589564522be290c7d7c18e51bcd8b03aeaf0b6',
+    ),
+    'sendgrid/sendgrid' => 
+    array (
+      'pretty_version' => '7.11.5',
+      'version' => '7.11.5.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '1d2fd3b72687fe82264853a8888b014f8f99e81f',
+    ),
+    'sendgrid/sendgrid-php' => 
+    array (
+      'replaced' => 
+      array (
+        0 => '*',
+      ),
+    ),
+    'starkbank/ecdsa' => 
+    array (
+      'pretty_version' => '0.0.5',
+      'version' => '0.0.5.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '484bedac47bac4012dc73df91da221f0a66845cb',
     ),
   ),
 );
