@@ -7,11 +7,17 @@ require 'PHPMailer-master/src/PHPMailer.php';
 require 'PHPMailer-master/src/SMTP.php';
 
 
+$name=$_POST['name'];
+$email=$_POST['email'];
+$contact_number=$_POST['contact-number'];
+$subject=$_POST['subject'];
+$comment=$_POST['comment'];
+
 $mail = new PHPMailer;
-$mail->setFrom('from@example.com', 'Your Name');
-$mail->addAddress('myfriend@example.net', 'My Friend');
-$mail->Subject  = 'First PHPMailer Message';
-$mail->Body     = 'Hi! This is my first e-mail sent through PHPMailer.';
+$mail->setFrom($email, $name);
+$mail->addAddress('muchongo.vance@gmail.com', 'admin');
+$mail->Subject  = $subject;
+$mail->Body     = $comment;
 if(!$mail->send()) {
   echo 'Message was not sent.';
   echo 'Mailer error: ' . $mail->ErrorInfo;
