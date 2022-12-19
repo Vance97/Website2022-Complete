@@ -10174,15 +10174,15 @@ div.wpcf7-response-output {
     font-weight: 600;
     margin: 0 0 21px;
 }
-.witr_apartment_form {}
+.witr_puno {}
 
 
-.witr_apartment_form form select option{
+.witr_puno form select option{
 
 }
 
-.witr_apartment_form form select,
-.witr_apartment_form input{
+.witr_puno form select,
+.witr_puno input{
     width: 100%;
     height: 45px;
     line-height: 1;
@@ -10195,26 +10195,26 @@ div.wpcf7-response-output {
     padding: 0 15px;
     margin-bottom: 30px;
 }
-.witr_apartment_form input::-moz-placeholder{
+.witr_puno input::-moz-placeholder{
     color: #929292 ;
     opacity: 1;
 }
-.witr_apartment_form input::-ms-input-placeholder{
+.witr_puno input::-ms-input-placeholder{
     color: #929292 ;
     opacity: 1;
 }
-.witr_apartment_form input::-webkit-input-placeholder{
+.witr_puno input::-webkit-input-placeholder{
     color: #929292;
     opacity: 1;
 }
-.witr_apartment_form select::-webkit-input-placeholder,
-.witr_apartment_form textarea::-webkit-input-placeholder{
+.witr_puno select::-webkit-input-placeholder,
+.witr_puno textarea::-webkit-input-placeholder{
     color: #929292;
     opacity: 1;
 }
 
 
-.witr_apartment_form .const_btn{
+.witr_puno .const_btn{
 	font-size: 15px;
     background: #fff;
     font-weight: 600;
@@ -10226,7 +10226,7 @@ div.wpcf7-response-output {
 	cursor:pointer;
 	transition:.5s;
 }
-.witr_apartment_form .const_btn:hover{
+.witr_puno .const_btn:hover{
     background: #008d00;
     color: #fff;
 }
@@ -17154,7 +17154,7 @@ overflow: hidden;
 }
 
 .apartment2_area.apartment3 .witr_text_area2 textarea,
-.apartment2_area.apartment3 .witr_apartment_form input,
+.apartment2_area.apartment3 .witr_puno input,
 .apartment2_area.apartment3 .witr_form_field2 input::-webkit-input-placeholder{
     color: #fff ;
 }
